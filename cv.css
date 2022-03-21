@@ -1,0 +1,90 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100
+%;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+.pre{display: flex;
+    
+
+}
+ .bloc1{
+
+    padding-left: 90px;
+}
+
+.bloc2{
+
+    padding-left: 120px;
+}
+
+ .bloc3{
+
+    padding-left: 120px
+}
+.bloc3 img{
+    height:100px;
+    width:100px;
+}
+
+h3{
+
+    padding-left: 90px;
+}
+
+.prof{
+    padding-left: 90px;   
+}
+.prof1{
+ display: flex;   
+}
+.prof2{
+    padding-left: 210px;
+}
+.sept{
+    padding-left: 90px;
+}
+  
+
+.oct{
+ display: flex;
+   
+}
+.date2{
+    padding-left: 90px;
+}
+.prof3{
+    padding-left: 210px;
+}
+
+
+.juin{
+    display: flex;
+}
+
+.date3{
+    padding-left: 90px;
+}
+
+.enseign{
+    padding-left: 220px;
+}
+
+
+.forma{
+    display: flex;
+}
+.date4{
+    padding-left: 90px;
+}
+.master{
+    padding-left: 210px;
+}
